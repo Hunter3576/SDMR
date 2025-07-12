@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f14iffvmi4cpnjqzwu524zfomoc6ousw2zquk7vya",
+  "Issue Number": "4",
+  "Client": {
+    "Name": "Shanghai Youhe Medical Technology Co., Ltd.",
+    "Region": "China",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://shyhmedical.com/",
+    "Social Media": "https://shyhmedical.com/",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Shanghai Youhe Medical Technology Co., Ltd. was established on May 19, 2011, with its registered address at Room 604, Building 1, No. 668 Shangda Road, Baoshan District, Shanghai. The legal representative is Xie Tao. The business scope includes licensed projects: the operation of Class III medical devices; Sales of disinfection equipment; Import and export of goods; Technology import and export. (For projects that require approval by law, business activities can only be carried out after approval by relevant departments. Specific business projects shall be subject to the approval documents or licenses of relevant departments.) General projects: technology development, technology transfer, technology consulting, and technology services in the fields of medical technology and medical devices; Sales of Class I medical devices; Sales of Class II medical devices; Sales of mechanical equipment; Electronic product sales; Sales of metal products; Sales of office equipment; Sales of experimental analytical instruments; Disinfectant sales (excluding hazardous chemicals); Sales of optoelectronic devices; Sales of optical instruments; Software sales. Except for projects that require approval according to law, Shanghai Youhe Medical Technology Co., Ltd. independently conducts business activities based on its business license. Shanghai Youhe Medical Technology Co., Ltd. has invested in three companies.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Some of the company's publicly available video materials, including teaching materials, clinical materials, etc.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "We will use the singularity",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/18_efiSz4cYJ_xVxEzTMwgIAirdTBeG6b?usp=drive_link",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03377773 Vietnam\nf03377778 Vietnam\nf03373733 Guangdong\nf03373337 Guangdong\nf03373373 Guangdong\nf03499999 HK\nf03500000 HK\nf02822088 Thailand\nf03377777 Thailand\nf03081952 CALIFORNIA",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "500TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "2PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-07-12 05:54:03.808440129 UTC",
+    "Validated By": "Hunter3576",
+    "Active": true,
+    "Updated At": "2025-07-12 05:54:03.808435632 UTC",
+    "Active Request ID": "416fe2ef-da58-466d-be16-b75473f0776b",
+    "On Chain Address": "f14iffvmi4cpnjqzwu524zfomoc6ousw2zquk7vya",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "416fe2ef-da58-466d-be16-b75473f0776b",
+      "Request Type": "First",
+      "Created At": "2025-07-12 05:45:38.371228853 UTC",
+      "Updated At": "2025-07-12 05:45:38.371230026 UTC",
+      "Active": false,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": [
+        {
+          "Github Username": "Hunter3576",
+          "Signing Address": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+          "Created At": "2025-07-12 05:54:04.189000000 UTC",
+          "Message CID": "bafy2bzaceaxdr56uwj2yreote7lt6mjrkozyicf7s42tzgjagwhkry3vuoxho"
+        }
+      ]
+    }
+  ]
+}

@@ -35,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-07-16 08:18:42.061026578 UTC",
+    "State": "Granted",
+    "Validated At": "2025-07-16 08:20:36.062002034 UTC",
     "Validated By": "Hunter3576",
     "Active": true,
-    "Updated At": "2025-07-16 08:18:42.061030642 UTC",
+    "Updated At": "2025-07-16 08:20:36.061997843 UTC",
     "Active Request ID": "742f49e9-b161-4d3d-b496-82b6fdc7fa89",
     "On Chain Address": "f1av7xxk45cbeqjlxw6ole4ayrbx7uzuboqhl2wtq",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2025-07-16 08:18:42.061032563 UTC",
       "Updated At": "2025-07-16 08:18:42.061033544 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "219902325555200 B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "Hunter3576",
+          "Signing Address": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+          "Created At": "2025-07-16 08:20:29.825000000 UTC",
+          "Message CID": "bafy2bzaceaxveq5lmhs2ll6duamozgjdalkuzpgimdr5td74lwksfuaaxgrna"
+        }
+      ]
     }
   ]
 }

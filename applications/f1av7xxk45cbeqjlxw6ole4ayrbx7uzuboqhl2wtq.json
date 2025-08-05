@@ -18,7 +18,7 @@
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
     "How do you plan to prepare the dataset": "",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.likongzhineng.com/uploads/soft/20250625/1-250625160209122.pdf\nhttp://www.likongzhineng.com/uploads/soft/20250625/1-250625155922Z2.pdf\nhttp://www.likongzhineng.com/uploads/media/20230417/1-23041G55J2145.mp4\nhttp://www.likongzhineng.com/uploads/media/20230417/1-23041G55615133.mp4",
-    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
     "What is the expected retrieval frequency for this data": "Yearly",
     "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
@@ -43,7 +43,7 @@
     "Active Request ID": "50f90cb9-9f3a-4dc4-a8d9-88eb36202cc7",
     "On Chain Address": "f1av7xxk45cbeqjlxw6ole4ayrbx7uzuboqhl2wtq",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {

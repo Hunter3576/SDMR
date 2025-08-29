@@ -36,11 +36,11 @@
     "Weekly Allocation": "50TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-08-29 09:06:51.747786045 UTC",
+    "State": "Granted",
+    "Validated At": "2025-08-29 09:10:08.791895375 UTC",
     "Validated By": "Hunter3576",
     "Active": true,
-    "Updated At": "2025-08-29 09:06:51.747790461 UTC",
+    "Updated At": "2025-08-29 09:10:08.791890067 UTC",
     "Active Request ID": "ec14ed36-ae94-4b86-8b1a-afda67be149a",
     "On Chain Address": "f12hinhhyobzfxrxg7nsnshpymgjktb3pjxkwe7iy",
     "Multisig Address": "false",
@@ -52,9 +52,18 @@
       "Request Type": "First",
       "Created At": "2025-08-29 09:06:51.747792813 UTC",
       "Updated At": "2025-08-29 09:06:51.747794198 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "10995116277760 B",
-      "Signers": []
+      "Amount of Datacap Sent to Contract": "10995116277760 B",
+      "Signers": [
+        {
+          "Github Username": "Hunter3576",
+          "Signing Address": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+          "Created At": "2025-08-29 09:10:04.746000000 UTC",
+          "Message CID": "bafy2bzacectvmkzyexv3bymlof66kjqxqoxiqtks2mfspqniarhfy3entmjro",
+          "Increase allowance CID": "bafy2bzacedr7hsl4ulrmcbuw3dm3ayqu3fzmcksyafpsixav56zhigzdmi4es"
+        }
+      ]
     }
   ]
 }

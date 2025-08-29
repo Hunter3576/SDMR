@@ -1,0 +1,69 @@
+{
+  "Version": "1.3",
+  "ID": "f12hinhhyobzfxrxg7nsnshpymgjktb3pjxkwe7iy",
+  "Issue Number": "16",
+  "Client Contract Address": "f410fdjzk2tnrgv4t7jdfjkxliahmemztkj7b2mrmtoq",
+  "Client": {
+    "Name": "test",
+    "Region": "Afghanistan",
+    "Industry": "Life Science / Healthcare",
+    "Website": "test",
+    "Social Media": "test",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "test",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "test",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "test",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "test",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Daily",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
+    "In which geographies do you plan on making storage deals": "Europe",
+    "How will you be distributing your data to storage providers": "Lotus built-in data transfer",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "test",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "50TiB",
+    "Single Size Dataset": "50TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "50TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-08-29 09:10:08.791895375 UTC",
+    "Validated By": "Hunter3576",
+    "Active": true,
+    "Updated At": "2025-08-29 09:10:08.791890067 UTC",
+    "Active Request ID": "ec14ed36-ae94-4b86-8b1a-afda67be149a",
+    "On Chain Address": "f12hinhhyobzfxrxg7nsnshpymgjktb3pjxkwe7iy",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "ec14ed36-ae94-4b86-8b1a-afda67be149a",
+      "Request Type": "First",
+      "Created At": "2025-08-29 09:06:51.747792813 UTC",
+      "Updated At": "2025-08-29 09:06:51.747794198 UTC",
+      "Active": false,
+      "Allocation Amount": "10995116277760 B",
+      "Amount of Datacap Sent to Contract": "10995116277760 B",
+      "Signers": [
+        {
+          "Github Username": "Hunter3576",
+          "Signing Address": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+          "Created At": "2025-08-29 09:10:04.746000000 UTC",
+          "Message CID": "bafy2bzacectvmkzyexv3bymlof66kjqxqoxiqtks2mfspqniarhfy3entmjro",
+          "Increase allowance CID": "bafy2bzacedr7hsl4ulrmcbuw3dm3ayqu3fzmcksyafpsixav56zhigzdmi4es"
+        }
+      ]
+    }
+  ]
+}

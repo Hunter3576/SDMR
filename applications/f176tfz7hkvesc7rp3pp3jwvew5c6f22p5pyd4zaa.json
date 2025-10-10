@@ -1,0 +1,69 @@
+{
+  "Version": "1.3",
+  "ID": "f176tfz7hkvesc7rp3pp3jwvew5c6f22p5pyd4zaa",
+  "Issue Number": "22",
+  "Client Contract Address": "f410fdjzk2tnrgv4t7jdfjkxliahmemztkj7b2mrmtoq",
+  "Client": {
+    "Name": "Century Foreign Languages",
+    "Region": "China",
+    "Industry": "Education & Training",
+    "Website": "https://www.centuryenglish.com/",
+    "Social Media": "https://www.centuryenglish.com/",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Shanghai Education Publishing Co., Ltd. Basic Education Second Branch (formerly \"Shanghai Century Publishing Co., Ltd. Foreign Language Education Book Branch,\" hereinafter referred to as \"Century Foreign Language Education\") is a specialized publisher of foreign language textbooks for primary and secondary schools.\n\nCentury Foreign Language Education holds the legitimate publishing rights to the complete Shanghai Edition Oxford English series for primary, secondary, and preschool students (including audio-visual materials), originally introduced and published by Shanghai Education Publishing House in collaboration with Oxford University Press. The company focuses on foreign language textbooks for primary and secondary schools while also developing specialized and regionally tailored educational materials, as well as supplementary learning resources designed to complement these textbooks. Concurrently, Century Foreign Language Education actively collaborates with overseas publishing houses to introduce market-responsive foreign language educational products, including textbooks, reference books, teacher resources, and student reading materials.\n\nSince its establishment, Century Foreign Language Education has actively participated in the editing and publishing of experimental textbooks for the national compulsory education English curriculum standards. The complete sets of primary and junior high school English textbooks (Shanghai Education Oxford Edition) have been approved by the National Textbook Review Committee for Primary and Secondary Schools. Consequently, Century Foreign Language Education holds two core textbook series: English (Shanghai Education Oxford Edition) and English (Oxford Shanghai Edition), establishing a significant presence in the field of foreign language textbook publishing for primary and secondary schools.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Some instructional videos",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "We will use the singularity\n\nhttps://github.com/tech-greedy/singularity/blob/main/getting-started.md\nThis is his introduction document. We have already tested the entire process.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.centuryenglish.com/source/show-535f9c21-0153-4676-9760-1be3aed24ce8.html\nhttps://www.centuryenglish.com/platform/show-1470.html\nhttps://www.centuryenglish.com/platform/show-1484.html\netc。。。",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03499999 HK\nf03500000 HK\nf02822088 Thailand\nf03377777 Thailand\nf03377773 Vietnam\nf03377778 Vietnam\nf03373373 Guangdong",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "640TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "2PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-10-10 15:50:34.602542653 UTC",
+    "Validated By": "Hunter3576",
+    "Active": true,
+    "Updated At": "2025-10-10 15:50:34.602538300 UTC",
+    "Active Request ID": "4b194b91-7baa-4357-af99-299cb31a0d43",
+    "On Chain Address": "f176tfz7hkvesc7rp3pp3jwvew5c6f22p5pyd4zaa",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "4b194b91-7baa-4357-af99-299cb31a0d43",
+      "Request Type": "First",
+      "Created At": "2025-10-10 15:45:21.391249264 UTC",
+      "Updated At": "2025-10-10 15:45:21.391250434 UTC",
+      "Active": false,
+      "Allocation Amount": "281474976710656 B",
+      "Amount of Datacap Sent to Contract": "281474976710656 B",
+      "Signers": [
+        {
+          "Github Username": "Hunter3576",
+          "Signing Address": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+          "Created At": "2025-10-10 15:50:31.636000000 UTC",
+          "Message CID": "bafy2bzaceb76voedlyz5d5w76qntaguicvvhtahwe6rz6oy6jhc3amqkxo4mk",
+          "Increase allowance CID": "bafy2bzacebzmiv4d4bw257rju55whjgvxjckqjarc4252x5zbshgnpi477lpk"
+        }
+      ]
+    }
+  ]
+}

@@ -36,11 +36,11 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-10-10 15:45:21.391242638 UTC",
+    "State": "Granted",
+    "Validated At": "2025-10-10 15:50:34.602542653 UTC",
     "Validated By": "Hunter3576",
     "Active": true,
-    "Updated At": "2025-10-10 15:45:21.391247289 UTC",
+    "Updated At": "2025-10-10 15:50:34.602538300 UTC",
     "Active Request ID": "4b194b91-7baa-4357-af99-299cb31a0d43",
     "On Chain Address": "f176tfz7hkvesc7rp3pp3jwvew5c6f22p5pyd4zaa",
     "Multisig Address": "false",
@@ -52,9 +52,18 @@
       "Request Type": "First",
       "Created At": "2025-10-10 15:45:21.391249264 UTC",
       "Updated At": "2025-10-10 15:45:21.391250434 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "281474976710656 B",
-      "Signers": []
+      "Amount of Datacap Sent to Contract": "281474976710656 B",
+      "Signers": [
+        {
+          "Github Username": "Hunter3576",
+          "Signing Address": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+          "Created At": "2025-10-10 15:50:31.636000000 UTC",
+          "Message CID": "bafy2bzaceb76voedlyz5d5w76qntaguicvvhtahwe6rz6oy6jhc3amqkxo4mk",
+          "Increase allowance CID": "bafy2bzacebzmiv4d4bw257rju55whjgvxjckqjarc4252x5zbshgnpi477lpk"
+        }
+      ]
     }
   ]
 }

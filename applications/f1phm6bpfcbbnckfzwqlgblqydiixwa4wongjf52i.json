@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1phm6bpfcbbnckfzwqlgblqydiixwa4wongjf52i",
   "Issue Number": "28",
+  "Client Contract Address": "f410fdjzk2tnrgv4t7jdfjkxliahmemztkj7b2mrmtoq",
   "Client": {
     "Name": "Golden Stapler Surgical Co., Ltd.",
     "Region": "China",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-11-20 10:46:39.263825415 UTC",
+    "Validated By": "Hunter3576",
     "Active": true,
-    "Updated At": "2025-11-20 09:53:11.732525165 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-11-20 10:46:39.263829785 UTC",
+    "Active Request ID": "bb80f31f-8b93-445d-ac9c-01db1d46a95a",
     "On Chain Address": "f1phm6bpfcbbnckfzwqlgblqydiixwa4wongjf52i",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "bb80f31f-8b93-445d-ac9c-01db1d46a95a",
+      "Request Type": "First",
+      "Created At": "2025-11-20 10:46:39.263832142 UTC",
+      "Updated At": "2025-11-20 10:46:39.263833028 UTC",
+      "Active": true,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": []
+    }
+  ]
 }

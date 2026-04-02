@@ -18,12 +18,12 @@
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
     "How do you plan to prepare the dataset": "",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.likongzhineng.com/uploads/soft/20250625/1-250625160209122.pdf\nhttp://www.likongzhineng.com/uploads/soft/20250625/1-250625155922Z2.pdf\nhttp://www.likongzhineng.com/uploads/media/20230417/1-23041G55J2145.mp4\nhttp://www.likongzhineng.com/uploads/media/20230417/1-23041G55615133.mp4",
-    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
     "What is the expected retrieval frequency for this data": "Yearly",
     "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, Lotus built-in data transfer",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03620433 US\nf03620434 US\nf03620442 JAP\nf03620441 JAP\nf03620447 SG\nf03620446 SG\nf03620690 KR\nf03621014 KR\nf03620890 KR",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03620433 US\nf03620434 US\nf03620442 JAP\nf03620441 JAP\nf03620447 SG\nf03620446 SG\nf03620690 KR\nf03509518 HK",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
@@ -31,11 +31,11 @@
     "Data Type": "Slingshot",
     "Total Requested Amount": "4PiB",
     "Single Size Dataset": "500TiB",
-    "Replicas": 9,
+    "Replicas": 8,
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-07-30 07:14:11.366506498 UTC",
     "Validated By": "Hunter3576",
     "Active": true,

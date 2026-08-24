@@ -37,11 +37,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2026-01-13 08:30:06.935346884 UTC",
+    "Validated At": "2026-08-24 03:43:09.240431153 UTC",
     "Validated By": "Hunter3576",
     "Active": true,
-    "Updated At": "2026-01-13 08:30:06.935345988 UTC",
-    "Active Request ID": "98a323c8-948b-48f8-b27a-dd2640591d57",
+    "Updated At": "2026-08-24 03:43:09.240430491 UTC",
+    "Active Request ID": "22b86494-f083-46ef-888e-5dc97a832a35",
     "On Chain Address": "f176tfz7hkvesc7rp3pp3jwvew5c6f22p5pyd4zaa",
     "Multisig Address": "false",
     "edited": false
@@ -166,6 +166,45 @@
               "3500000",
               "2822088",
               "3377777"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "ID": "dfa596c0-9f54-44ed-9c1b-81cc2b62a496",
+      "Created At": "2026-08-24 03:43:09.240408792 UTC",
+      "Updated At": "2026-08-24 03:43:09.240413736 UTC",
+      "Active": false,
+      "Allowed Storage Providers": [
+        3573579,
+        3573377,
+        3582468
+      ],
+      "Signers": [
+        {
+          "Github Username": "Hunter3576",
+          "Signing Address": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzaceb7zps4xnxtlm354yvk7gxxj2wstuaqpzxom2fs4kipcap77idecg": [
+              "3573579",
+              "3573377",
+              "3582468"
+            ]
+          },
+          "Remove Allowed Storage Providers CID": {
+            "bafy2bzaceb7hcft5ekqnsn3nuu7gimsctaqo74nipzgb4wbnkejol7pyb64ec": [
+              "3519208",
+              "3519200",
+              "3519199",
+              "2808899",
+              "3377773",
+              "3377778",
+              "3373373",
+              "3175111"
+            ],
+            "bafy2bzacecsu7ig2wzijdyniis2ovhv555vif2qftle2cs5hhzyxubiilghzw": [
+              "3175168"
             ]
           }
         }
